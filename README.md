@@ -1,2 +1,0 @@
-# HotBurgerREACT
-Pagina web proyecto
